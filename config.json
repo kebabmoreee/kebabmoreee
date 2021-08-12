@@ -1,0 +1,27 @@
+{
+    "prefix": "!",
+    "token": "NzE0OTkxMjc0NjU4MzY1NTIy.Xs2tgw.hmTp0uCvOgqxfD_z4o87GpaY34g",
+    "permission": "742128660387069992",
+
+    "roomka_wl": "742118375479836734",
+    "roomka_formular": "743467172235313203",
+    "adminroomka_formular": "743474305572143174",
+
+    "role_wl": "742131353465782318",
+    "role_pohovor": "742131641174196234",
+    "role_pohovor_zam": "742131722694688769",
+    "role_cekawl": "743467008137363587",
+    "role_user": "743467008137363587",
+
+
+    "command_formular": "formular",
+    "command_wl": "wl",
+    "command_potvrdit": "ano",
+    "command_zrusit": "ne",
+
+    "message_error_formular": "",
+    "message_error_wl": "Už dávno čekáš na WL!",
+    "message_error_commnd_wl": "testtest",
+    "message_formular": "",
+    "message_wl": "Právě ti byla nahozena role za účelem formuláře taktéž se ti otevřeli roomky."
+}
